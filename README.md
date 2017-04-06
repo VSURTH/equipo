@@ -1,0 +1,2 @@
+# equipo
+practicas con platzi
